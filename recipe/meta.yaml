@@ -38,7 +38,7 @@ about:
   home: https://github.com/xarray-contrib/cubed-xarray
   license: Apache-2.0
   license_family: APACHE
-  license_file: LICENSE 
+  license_file: LICENSE
   summary: "Interface for using cubed with xarray for parallel computation."
   doc_url: https://github.com/xarray-contrib/cubed-xarray#readme
   dev_url: https://github.com/xarray-contrib/cubed-xarray
