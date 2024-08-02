@@ -3,15 +3,17 @@ About cubed-xarray-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/cubed-xarray-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/xarray-contrib/cubed-xarray
+Home: https://github.com/cubed-dev/cubed-xarray
 
 Package license: Apache-2.0
 
 Summary: Interface for using cubed with xarray for parallel computation.
 
-Development: https://github.com/xarray-contrib/cubed-xarray
+Development: https://github.com/cubed-dev/cubed-xarray
 
-Documentation: https://github.com/xarray-contrib/cubed-xarray#readme
+Documentation: https://github.com/cubed-dev/cubed-xarray#readme
+
+See also: https://github.com/conda-forge/cubed-feedstock
 
 Current build status
 ====================

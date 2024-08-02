@@ -35,13 +35,13 @@ test:
     - pip
 
 about:
-  home: https://github.com/xarray-contrib/cubed-xarray
+  home: https://github.com/cubed-dev/cubed-xarray
   license: Apache-2.0
   license_family: APACHE
   license_file: LICENSE
   summary: "Interface for using cubed with xarray for parallel computation."
-  doc_url: https://github.com/xarray-contrib/cubed-xarray#readme
-  dev_url: https://github.com/xarray-contrib/cubed-xarray
+  doc_url: https://github.com/cubed-dev/cubed-xarray#readme
+  dev_url: https://github.com/cubed-dev/cubed-xarray
 
 extra:
   recipe-maintainers:
