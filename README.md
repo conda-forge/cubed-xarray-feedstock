@@ -13,8 +13,6 @@ Development: https://github.com/cubed-dev/cubed-xarray
 
 Documentation: https://github.com/cubed-dev/cubed-xarray#readme
 
-See also: https://github.com/conda-forge/cubed-feedstock
-
 Current build status
 ====================
 
