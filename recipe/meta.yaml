@@ -1,5 +1,5 @@
 {% set name = "cubed-xarray" %}
-{% set version = "0.0.8" %}
+{% set version = "0.0.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name | replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 71f0ee603b31e50968a360b0fc73f8c68d9ddf85ea1ea54b3923804c3f47aa71
+  sha256: ff1064199c248f78e1a79ca91f5effc8e6854ad47ba45d2d32a5d4f5c26f5482
 
 build:
   number: 0
@@ -17,14 +17,14 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.9
+    - python >=3.11
     - setuptools >=42
     - setuptools_scm >=3.4
     - toml
   run:
-    - python >=3.9
-    - xarray >=2024.2.0
-    - cubed >=0.6.3
+    - python >=3.11
+    - xarray >=2024.09.0
+    - cubed >=0.24.0
 
 test:
   imports:
