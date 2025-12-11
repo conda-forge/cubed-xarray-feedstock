@@ -17,14 +17,14 @@ build:
 requirements:
   host:
     - pip
-    - python >=3.9
+    - python >=3.11
     - setuptools >=42
     - setuptools_scm >=3.4
     - toml
   run:
-    - python >=3.9
-    - xarray >=2024.2.0
-    - cubed >=0.6.3
+    - python >=3.11
+    - xarray >=2024.09.0
+    - cubed >=0.24.0
 
 test:
   imports:
